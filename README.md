@@ -1,5 +1,10 @@
 # Miniaturized UAV Project Using Nationally Available Components
 
+## 🌐 Available Languages
+
+- [English](README.md)
+- [Portuguese](README.br.md)
+
 This repository documents the development of a small-sized quadrotor UAV (Unmanned Aerial Vehicle) using only components available through online marketplaces within the Brazilian market. The project is being developed within the **Autonomous Systems Laboratory (LSA)** at **PUCRS**.
 
 ## 💡 Motivation

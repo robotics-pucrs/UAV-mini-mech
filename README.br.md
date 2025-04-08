@@ -1,4 +1,8 @@
 # Projeto de UAV Miniaturizado com Componentes Nacionais
+## 🌐 Linguagens Disponíveis
+
+- [Inglês](README.md)
+- [Português](README.br.md)
 
 Este repositório documenta o desenvolvimento de um UAV (Veículo Aéreo Não-Tripulado) quadrotor de pequeno porte, utilizando exclusivamente componentes disponíveis em marketplaces do mercado nacional. O projeto está sendo desenvolvido no contexto do **Laboratório de Sistemas Autônomos (LSA)** da **PUCRS**.
 
